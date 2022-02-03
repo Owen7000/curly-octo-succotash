@@ -1,2 +1,3 @@
 # curly-octo-succotash
-Chrome extension 2
+Just your typical chrome extension.
+Nothing to see here
